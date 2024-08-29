@@ -1,0 +1,2 @@
+Crear Repositorio con el comando "git init"
+crear primer archvio de python 
