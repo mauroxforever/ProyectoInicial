@@ -1,2 +1,16 @@
-Crear Repositorio con el comando "git init"
-crear primer archvio de python 
+1. Crear Repositorio (carpeta donde guardaremos nuestros proyectos)
+2. con el comando "git init" inicializamos git
+3. crear primer archvio de python 
+
+4. agregar archivo o archivos al control de versiones con 
+    git add "nombre de archivo"     # para agregar un archivo especifico
+    git add ./     # para agregar todos los archivos de la carpeta actual
+
+5. Despues de agregar los archivos ingresamos un commit para confirmar cambios en el Repositorio
+    git commit -m "primer commit: agregar cambios en codigo"
+
+
+6. configurar git
+    git config --global user.name "Tu Nombre"
+    git config --global user.email "tuemail@example.cl"
+
